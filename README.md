@@ -15,6 +15,8 @@ A results-driven Nuclear Engineer and former Naval Nuclear Propulsion Officer wi
 
 ### 🌟 Core Competencies, Achievements, and Skills
 
+Use code with caution.
+
 Functional Area	Key Achievement & Quantifiable Impact	Standards & Regulations Applied
 Project & Portfolio Leadership	Directed NQA-1 fabrication portfolio exceeding $50M+ annually. Reduced design review time by 60% (saving $75K/quarter).	ASME NQA-1, ISO 9001/19443
 Emergency Operations & Safety	Held ultimate control authority over ESF systems; led 50+ drills with a flawless response record. Achieved facility record-low shutdown dose.	NRC-aligned requirements, ALARA principles
