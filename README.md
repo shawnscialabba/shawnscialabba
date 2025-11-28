@@ -1,4 +1,3 @@
-markdown
 ### Hi, I'm Shawn Scialabba 👋
 
 ---
@@ -31,12 +30,11 @@ A results-driven Nuclear Engineer and former Naval Nuclear Propulsion Officer wi
 ### 🛠️ Master Skill Stack
 
 **Technical & Engineering Expertise**
-*   Nuclear Reactor Operations & Management | ESF Systems | I&C Systems | Reactor Physics | DCD/ECN Governance
-*   Seismic Design (ASCE 4/43) | ALARA Health Physics | Vendor Verification | NDE Requirements | PRA Analysis | Maintenance Planning
+*   Nuclear Reactor Operations | ESF/I&C Systems | Reactor Physics | DCD/ECN Governance | NDE Requirements | PRA Analysis | Maintenance Planning | Fire Protection | Radwaste Management
 
 **Regulatory & Compliance Frameworks**
-*   **CFR:** 10 CFR 50 App B, 10 CFR 50.72/.73, 10 CFR Part 810, 10 CFR 20, 10 CFR 52
-*   **Standards:** ASME NQA-1, ISO 19443, ISO 9001 | NFPA/IBC Codes | DOE/NRC/NAVSEA Oversight
+*   **CFR:** [10 CFR 50 App B](www.ecfr.gov), [10 CFR 50.72/.73](www.ecfr.gov), [10 CFR Part 810](www.ecfr.gov), 10 CFR 20, 10 CFR 52
+*   **Standards:** [ASME NQA-1](www.asme.org), [ISO 19443](www.iso.org), ISO 9001 | NFPA/IBC Codes | DOE/NRC/NAVSEA Oversight | ORSE/ERR/A&S Protocols
 
 **Licenses & Certifications**
 *   **Qualifications:** PNEO (DOE), EDO, RCO, OSO, ACRS, EOOW (US Navy)
@@ -45,6 +43,28 @@ A results-driven Nuclear Engineer and former Naval Nuclear Propulsion Officer wi
 
 ---
 
+### 🚀 Featured Projects & Case Studies
+
+*   [MTS635-Relocation-CaseStudy](github.com)
+*   [10CFR810-Export-Control-Framework](github.com)
+*   [NQA1-QA-Manual-Template](github.com)
+*   [Seismic-Design-Cost-Optimization](github.com)
+*   [Radwaste-ALARA-Optimization](github.com)
+*   [Nuclear-Safety-Design-Basis-Management](github.com)
+*   [GRC-Leadership-Framework](github.com)
+*   [Nuclear-Incident-Reporting-Governance](github.com)
+*   [Nuclear-Program-Turnaround-Oversight](github.com)
+*   [Record-Low-Shutdown-Dose-Achievement](github.com)
+*   [Emergency-Preparedness-Program-Design](github.com)
+*   [Reactor-Core-Health-Sampling-Evolution](github.com)
+*   [Human-Performance-Accountability-Program](github.com)
+*   [Operational-Reactor-Safeguards-Program](github.com)
+*   [Supply-Chain-Vendor-Quality-Oversight](github.com)
+*   [Academic-Foundations-Mentorship-Program](github.com)
+
+---
+
 ### 🌐 Connect With Me
 
-(https://www.linkedin.com/in/shawnscialabba/) | [Email Address](mailto:ShawnScialabba@gmail.com)
+[[LinkedIn Profile](https://www.linkedin.com/in/shawnscialabba/)](www.linkedin.com) | [Email](mailto:ShawnScialabba@gmail.com)
+
