@@ -1,16 +1,16 @@
-## Hi there 👋
+markdown
+### Hi, I'm Shawn Scialabba 👋
 
-<!--
-**shawnscialabba/shawnscialabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="media.giphy.com" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Senior Nuclear Operations & Compliance Manager | GRC Integration Expert | NQA-1 & 10 CFR SME | PNEO/SRO Equivalent**
+
+A results-driven Nuclear Engineer and former Naval Nuclear Propulsion Officer with 15+ years of high-stakes decision-making authority. Expert in integrating Governance, Risk Management, and Compliance (GRC) frameworks across zero-defect environments. Proven leader who delivered multi-million dollar operational savings while achieving a zero-major-findings audit record and maintaining 100% regulatory compliance.
+
+---
+
+### 🌟 Core Competencies & Achievements
