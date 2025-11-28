@@ -47,4 +47,4 @@ A results-driven Nuclear Engineer and former Naval Nuclear Propulsion Officer wi
 
 ### 🌐 Connect With Me
 
-[LinkedIn Profile URL](linkedin.com) | [Email Address](mailto:youremail@example.com)
+(https://www.linkedin.com/in/shawnscialabba/) | [Email Address](mailto:ShawnScialabba@gmail.com)
