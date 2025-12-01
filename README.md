@@ -45,7 +45,7 @@ A results-driven Nuclear Engineer and former Naval Nuclear Propulsion Officer wi
 
 ### 🚀 Featured Projects & Case Studies
 
-*   [MTS635-Relocation-CaseStudy](github.com)
+*   [Relocation-CaseStudy](github.com)](https://github.com/shawnscialabba/Academic-Foundations-Mentorship-Program)
 *   [10CFR810-Export-Control-Framework](github.com)
 *   [NQA1-QA-Manual-Template](github.com)
 *   [Seismic-Design-Cost-Optimization](github.com)
