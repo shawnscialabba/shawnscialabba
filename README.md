@@ -46,22 +46,26 @@ A results-driven Nuclear Engineer and former Naval Nuclear Propulsion Officer wi
 ### 🚀 Featured Projects & Case Studies
 
 *   [Relocation-CaseStudy](github.com)](https://github.com/shawnscialabba/Academic-Foundations-Mentorship-Program)
-*   [10CFR810-Export-Control-Framework](github.com)
-*   [NQA1-QA-Manual-Template](github.com)
-*   [Seismic-Design-Cost-Optimization](github.com)
-*   [Radwaste-ALARA-Optimization](github.com)
-*   [Nuclear-Safety-Design-Basis-Management](github.com)
-*   [GRC-Leadership-Framework](github.com)
-*   [Nuclear-Incident-Reporting-Governance](github.com)
-*   [Nuclear-Program-Turnaround-Oversight](github.com)
-*   [Record-Low-Shutdown-Dose-Achievement](github.com)
-*   [Emergency-Preparedness-Program-Design](github.com)
-*   [Reactor-Core-Health-Sampling-Evolution](github.com)
-*   [Human-Performance-Accountability-Program](github.com)
-*   [Operational-Reactor-Safeguards-Program](github.com)
-*   [Supply-Chain-Vendor-Quality-Oversight](github.com)
-*   [Academic-Foundations-Mentorship-Program](github.com)
-
+*   [[10CFR810-Export-Control-Framework](github.com)](https://github.com/shawnscialabba/Supply-Chain-Vendor-Quality-Oversight)
+*   [[NQA1-QA-Manual-Template](github.com)](https://github.com/shawnscialabba/Operational-Reactor-Safeguards-Program)
+*   [[Seismic-Design-Cost-Optimization](github.com)](https://github.com/shawnscialabba/Human-Performance-Accountability-Program)
+*   [[Radwaste-ALARA-Optimization](github.com)](https://github.com/shawnscialabba/Reactor-Core-Health-Sampling-Evolution)
+*   [[Nuclear-Safety-Design-Basis-Management](github.com)](https://github.com/shawnscialabba/Emergency-Preparedness-Program-Design)
+*   [[GRC-Leadership-Framework](github.com](https://github.com/shawnscialabba/Customer-Service-Improvement-Initiative)
+*   [[Nuclear-Incident-Reporting-Governance](github.com)](https://github.com/shawnscialabba/Digital-Marketing-Campaign-Optimization)
+*   [[Nuclear-Program-Turnaround-Oversight](github.com)](https://github.com/shawnscialabba/Software-Development-Lifecycle)
+*   [[Record-Low-Shutdown-Dose-Achievement](github.com)](https://github.com/shawnscialabba/Nuclear-Program-Turnaround-Oversight)
+*   [[Emergency-Preparedness-Program-Design](github.com)](https://github.com/shawnscialabba/Nuclear-Incident-Reporting-Governance)
+*   [[Reactor-Core-Health-Sampling-Evolution](github.com)](https://github.com/shawnscialabba/Record-Low-Shutdown-Dose-Achievement)
+*   [[Human-Performance-Accountability-Program](github.com)](https://github.com/shawnscialabba/Operational-Risk-Management-ORM)
+*   [[Operational-Reactor-Safeguards-Program](github.com)](https://github.com/shawnscialabba/Nuclear-Safety-Design-Basis-Management)
+*   [[Supply-Chain-Vendor-Quality-Oversight](github.com)](https://github.com/shawnscialabba/GRC-Leadership-Framework)
+*   [[Academic-Foundations-Mentorship-Program](github.com)](https://github.com/shawnscialabba/Design-Basis-Configuration-Management)
+*   [Radwaste-ALARA-Optimization](https://github.com/shawnscialabba/Radwaste-ALARA-Optimization)
+*   https://github.com/shawnscialabba/Seismic-Design-Cost-Optimization
+*   https://github.com/shawnscialabba?tab=repositories#:~:text=NQA1%2DQA%2DManual%2DTemplate
+*   https://github.com/shawnscialabba/Relocation-CaseStudy
+*   https://github.com/shawnscialabba/10CFR810-Export-Control-Framework
 ---
 
 ### 🌐 Connect With Me
